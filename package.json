@@ -1,0 +1,22 @@
+{
+  "name": "send-mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrymer/yougotmail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrymer/yougotmail/issues"
+  },
+  "homepage": "https://github.com/mrymer/yougotmail#readme",
+  "dependencies": {
+    "nodemailer": "^4.1.0"
+  }
+}
